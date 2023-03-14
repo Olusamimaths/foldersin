@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # This script deletes folders that doesn't contain files with a given extension
-# E.g if ext="xml", then this script will delete all folders that doesn't contain an xml file
+# E.g if graceExtension="xml", then this script will delete all folders that doesn't contain an xml file
 
 graceExtension="xml"
 count=0
